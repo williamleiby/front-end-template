@@ -122,16 +122,19 @@ finally, i know where everything is. this is another huge time-saver when it com
 
 ## other stuff.
 
+### ok, dude. what’s with all the comments ?
+
+in the ‘index.html’, ‘styles.scss’, and ‘scripts.js’ files, you most likely saw comments with banners labeled ‘TODO:’ or ‘FIXME:’. those comments are lists for me to refer back to whenever i have close a project and reopen it. i also use an extension in vscode called todo highlighter that highlights the names of each banner throughout the project.
+
+also, i’m a huge fan of modularizing code into chunks, rather than having one giant sheet of code that takes ages to find something (even with a fuzzy finder).
+
 ### author.
 
 **williamleiby.** - *front-end-template* - [williamleiby.](https://github.com/williamleiby)
 
-### aknowledgements
+### aknowledgements.
 
 * [Jesse Showalter](https://github.com/jesseshowalter) for the inspiration behind this template.
-* [Brad Traversy](https://github.com/bradtraversy) for teaching me html / css.
-* [Shaun Pelling](https://github.com/iamshaunjp) for teaching me sass.
-* [Wes Bos](https://github.com/wesbos) for teaching me javascript.
 
 ### license.
 
