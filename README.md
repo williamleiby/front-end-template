@@ -132,7 +132,7 @@ also, i’m a huge fan of modularizing code into chunks, rather than having one 
 
 ### author. 🧐
 
-**williamleiby.** - *front-end-template* - [williamleiby.](https://github.com/williamleiby)
+**william leiby** - *front-end-template* - [williamleiby.](https://williamleiby.com)
 
 ### aknowledgements. 👏
 
