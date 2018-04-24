@@ -116,7 +116,7 @@ i used to spend a good 15 minutes setting up the foundation of a project, but no
 
 i no longer have to worry about scrolling through one giant 'styles.css' file or one giant 'scripts.js' file to find what i'm looking for.
 
-also, since i compile all of my javascript and css code down into one file for each language, that means there is only one http request for each language when referencing the files in my '.html' files for each project.
+also, since i compile all of my javascript and css code down into one file for each language, that means there is only one http request made for each language when referencing the files in my '.html' files for each project.
 
 finally, i know where everything is. this is another huge time-saver when it comes to projects with a deadline or even just cranking out an idea.
 
