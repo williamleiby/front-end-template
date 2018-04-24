@@ -1,10 +1,10 @@
-# front-end-template.
+# front-end-template
 
 this is the front-end template / architecture i use when building front-end projects.
 
 before i dive in, it should be stated that this template is just the foundation to a front-end project. 
 
-add a framework,take away folders and / or files you dont need, or don't change a single thing at all. 
+add a framework, take away folders and / or files you dont need, or don't change a single thing at all. 
 
 if there are any tweaks you think i should make, besides writing this whole documentation in lowercase lettering, feel free to fork my code or [email](mailto:contact@williamleiby) me.
 
