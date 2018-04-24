@@ -96,12 +96,13 @@ i also create a source map (this option is given in codekit) with the same outpu
 
 ship your front-end project with whatever you want.
 
-ssh.
+ssh. 
+
 ftp.
 
 it's up to you.
 
-just make sure that you deploy, you leave out the 'src' folder in the '.gitignore' file. a great '.gitignore' template can be found [here](https://gist.github.com/octocat/9257657).
+just make sure that when you deploy your project, you leave out the 'src' folder in the '.gitignore' file. a nifty '.gitignore' template can be found [here](https://gist.github.com/octocat/9257657).
 
 ## why do any of this ? 🤨
 
