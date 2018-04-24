@@ -1,0 +1,30 @@
+/// ================= \\\
+/// === VARIABLES === \\\
+/// ================= \\\
+
+
+/// === COLOR PALETTE === \\\
+
+$colorA: #000000; // used for ...
+$colorB: #000000; // used for ...
+$colorC: #000000; // used for ...
+$colorD: #000000; // used for ...
+$colorE: #000000; // used for ...
+
+/// === WINDOW BREAKPOINTS === \\\
+
+// breakpoint references : https://material.io/resizer/ & https://material.io/devices/
+
+$windowXXL: 1600px;
+$windowXL: 1440px; 
+$windowL: 1280px;
+$windowM: 950px;
+$windowS: 600px;
+$windowXS: 480px;
+
+/// === FONT PALETTE === \\\
+
+$fontLight: "Font-Light", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+$fontBook: "Font-Book", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+$fontMedium: "Font-Medium", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+$fontBold: "Font-Bold", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;

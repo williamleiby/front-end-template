@@ -1,0 +1,8 @@
+/// ================================= \\\
+/// === FINALIZED JAVASCRIPT FILE === \\\
+/// ================================= \\\
+
+// this is where all of the javascript in the "src/scripts" folder will compressed, compiled, and made ready for distribution.
+
+/// CAUTION \\\
+/// THIS FILE WILL BE OVERWRITTEN ONCE YOU PUSH YOUR CODE FROM "src" to "dist"
