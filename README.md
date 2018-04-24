@@ -124,7 +124,7 @@ finally, i know where everything is. this is another huge time-saver when it com
 
 ### author.
 
-**williamleiby.** - *front-end-template.* - [williamleiby.](https://github.com/williamleiby)
+**williamleiby.** - *front-end-template* - [williamleiby.](https://github.com/williamleiby)
 
 ### aknowledgements
 
