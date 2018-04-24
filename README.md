@@ -1,4 +1,4 @@
-# front-end-template
+# front-end-template 🤺
 
 this is the front-end template / architecture i use when building front-end projects.
 
@@ -8,11 +8,11 @@ add a framework, take away folders and / or files you dont need, or don't change
 
 if there are any tweaks you think i should make, besides writing this whole documentation in lowercase lettering, feel free to fork my code or [email](mailto:contact@williamleiby) me.
 
-## getting started.
+## getting started. 👶
 
 feel free to [clone](https://github.com/williamleiby/front-end-template..git) / [download](https://github.com/williamleiby/front-end-template./archive/master.zip) this repo.
 
-### prerequisites.
+### prerequisites. 👨‍💻
 
 things you need prior to using this template :
 
@@ -22,7 +22,7 @@ things you need prior to using this template :
 3. cli. (hyper (my choice), iterm, terminal, etc.)
 ```
 
-## using the template.
+## using the template. 🛠
 
 in this template there are two main folders :
 ```
@@ -37,7 +37,7 @@ README.md
 ```
 for this repo, we will only really be focusing on the two main folders listed above.
 
-### 'dist'
+### 'dist' 📦
 
 'dist' is the folder that will be ssh'd / ftp'd up to a server once i'm done with the front-end for a project. 
 
@@ -74,7 +74,7 @@ inside of each of the folders, there will be one main 'styles-dist.css' and 'scr
 
 if you are wondering how my output code compresses all of my libraries, frameworks, and preprocessors into one file, refer to the section 'why do any of this ?' below.
 
-### 'src'
+### 'src' 🏭
 
 'src' is the folder where i manipulate styling attributes  / javascript code to make a website come to life.
 
@@ -92,7 +92,7 @@ from there, i have my 'styles.scss' file output to be compiled into the 'styles'
 
 i also create a source map (this option is given in codekit) with the same output so dev tools aren't as much of a nightmare as they sometimes can be.
 
-## finally, deployment.
+## finally, deployment. 🎁
 
 ship your front-end project with whatever you want.
 
@@ -102,13 +102,14 @@ ftp.
 it's up to you.
 
 just make sure that you deploy, you leave out the 'src' folder in the '.gitignore' file. a great '.gitignore' template can be found [here](https://gist.github.com/octocat/9257657).
-## why do any of this ?
+
+## why do any of this ? 🤨
 
 the reasoning behind this template really boils down to some key features i couldn't take away from a front-end project. 
 
-* ease of mind.
-* no more "reinventing the wheel".
-* a foundation i know inside and out.
+* ease of mind. 🧘‍♂️
+* no more "reinventing the wheel". 🚀
+* a foundation i know inside and out. 🤔
 
 i used to spend a good 15 minutes setting up the foundation of a project, but now because of this template i am able to get that 15 minutes back and use it towards something more productive.
 
@@ -120,22 +121,22 @@ finally, i know where everything is. this is another huge time-saver when it com
 
 ( ps - another great thing about this template is that you can use whatever methodology you want; BEM, SMACSS, etc..)
 
-## other stuff.
+## other stuff. 🤷‍♂️
 
-### ok, dude. what’s with all the comments ?
+### ok, dude. what’s with all the comments ? 🗒
 
 in the ‘index.html’, ‘styles.scss’, and ‘scripts.js’ files, you most likely saw comments with banners labeled ‘TODO:’ or ‘FIXME:’. those comments are lists for me to refer back to whenever i have close a project and reopen it. i also use an extension in vscode called todo highlighter that highlights the names of each banner throughout the project.
 
 also, i’m a huge fan of modularizing code into chunks, rather than having one giant sheet of code that takes ages to find something (even with a fuzzy finder).
 
-### author.
+### author. 🧐
 
 **williamleiby.** - *front-end-template* - [williamleiby.](https://github.com/williamleiby)
 
-### aknowledgements.
+### aknowledgements. 👏
 
 * [Jesse Showalter](https://github.com/jesseshowalter) for the inspiration behind this template.
 
-### license.
+### license. 📜
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
