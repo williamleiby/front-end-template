@@ -102,7 +102,7 @@ ftp.
 
 it's up to you.
 
-just make sure that when you deploy your project, you leave out the 'src' folder in the '.gitignore' file. a nifty '.gitignore' template can be found [here](https://gist.github.com/octocat/9257657).
+just make sure that when you deploy your project, you leave out the 'src' folder as well as the source maps for both the ‘styles’ and ‘scripts’ folders in the '.gitignore' file. a nifty '.gitignore' template can be found [here](https://gist.github.com/octocat/9257657).
 
 ## why do any of this ? 🤨
 
