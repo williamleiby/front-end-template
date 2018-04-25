@@ -6,7 +6,7 @@ before i dive in, it should be stated that this template is just the foundation 
 
 add a framework, take away folders and / or files you dont need, or don't change a single thing at all. 
 
-if there are any tweaks you think i should make, besides writing this whole documentation in lowercase lettering, feel free to fork my code or [email](mailto:contact@williamleiby) me.
+if there are any tweaks you think i should make, besides writing this whole documentation in lowercase lettering, feel free to fork my code or [email](mailto:contact@williamleiby.com) me.
 
 ## getting started. 👶
 
