@@ -90,11 +90,11 @@ i use sass when writing my styling attributes, then have partials for each secti
 
 from there, i have my 'styles.scss' file output to be compiled into the 'styles' folder in 'dist'. the result will be one (yes, one.) 'styles-dist.css'.
 
-i also create a source map (this option is given in codekit) with the same output so dev tools aren't as much of a nightmare as they sometimes can be.
+i also create a source map (this option is given in codekit) with the same output path as the ‘styles-dist.css’ so dev tools aren't as much of a nightmare as they sometimes can be.
 
 ## finally, deployment. 🎁
 
-ship your front-end project with whatever you want.
+ship your front-end project with whatever form of protocol you want.
 
 ssh. 
 
