@@ -88,7 +88,7 @@ just like a lot of individuals who like to speed up their production when coding
 
 i use sass when writing my styling attributes, then have partials for each section / group i'm working on @import'd into one large 'styles.scss' file in the 'styles' folder.
 
-from there, i have my 'styles.scss' file output to be compiled into the 'styles' folder in 'dist'. the result will be one (yes,one.) 'styles-dist.css'.
+from there, i have my 'styles.scss' file output to be compiled into the 'styles' folder in 'dist'. the result will be one (yes, one.) 'styles-dist.css'.
 
 i also create a source map (this option is given in codekit) with the same output so dev tools aren't as much of a nightmare as they sometimes can be.
 
