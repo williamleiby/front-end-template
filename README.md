@@ -1,5 +1,5 @@
 # Front-End Template 🐥
-(https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/williamleiby/front-end-template)
+[![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/williamleiby/front-end-template)
 
 Front-end template for beginners.
 
