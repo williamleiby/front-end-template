@@ -29,7 +29,9 @@ $ cd front-end-template
 
 ## Built With 🛠
 
-* [Heroku](https://heroku.com) - Hosting
+* [HTML](https://html.com/) - Hyper-Text Programming Language
+* [SCSS](https://sass-lang.com/) - Syntactically Awesome Styling Sheets
+* [JavaScript](https://www.javascript.com/) - High-Level Programming Language
 
 ## Author(s) ✍️
 
